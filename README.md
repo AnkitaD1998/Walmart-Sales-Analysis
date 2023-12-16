@@ -15,3 +15,4 @@ This analysis aims to uncover the different customer segments, purchase trends, 
 ## Approach Used
 1. ### Data Wrangling:
 This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace missing or NULL values.
+__Build a database
