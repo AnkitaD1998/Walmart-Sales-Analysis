@@ -13,3 +13,5 @@ This analysis aims to answer the question of the sales trends of products. The r
 3. _Customer Analysis_: 
 This analysis aims to uncover the different customer segments, purchase trends, and the profitability of each customer segment.
 ## Approach Used
+1. ### Data Wrangling:
+This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace missing or NULL values.
