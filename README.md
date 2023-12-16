@@ -6,10 +6,10 @@ The major aim of this project is to gain insight into the sales data of Walmart 
 ## About Data
 This dataset contains sales transactions from three different branches of Walmart, located in Mandalay, Yangon, and Naypyitaw. The data contains 17 columns and 1000 rows.
 ## Analysis List
-1. Product Analysis
+1. Product Analysis: 
 Analyze the data to understand the different product lines, the product lines performing best, and the product lines that need to be improved.
-2. Sales Analysis
+2. Sales Analysis: 
 This analysis aims to answer the question of the sales trends of products. The result of this can help us measure the effectiveness of each sales strategy the business applies and what modifications are needed to gain more sales.
-3. Customer Analysis
+3. Customer Analysis: 
 This analysis aims to uncover the different customer segments, purchase trends, and the profitability of each customer segment.
 ## Approach Used
